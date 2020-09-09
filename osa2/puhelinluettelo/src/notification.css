@@ -1,0 +1,14 @@
+.success{
+    background: #AAFFAA;
+    border: 3px solid #008800;
+}
+.success>p{
+    color: #008800;
+}
+.error{
+    background: #FFAAAA;
+    border: 3px solid #FF0000;
+}
+.error>p{
+    color: #FF0000;
+}
